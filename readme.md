@@ -1,4 +1,4 @@
-Node Boilerplate
+Todo Challenge
 ==================
 
 > ### Tecnologias
@@ -7,8 +7,6 @@ Node Boilerplate
 * Express (Framework)
 * Docker
 * TypeORM
-* JWT
-* Bcrypt (criptografia para senhas)
 
 > ### Iniciando o projeto
 

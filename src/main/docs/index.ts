@@ -7,7 +7,7 @@ export default {
   openapi: '3.0.0',
   info: {
     title: 'API Service',
-    description: 'API created to a Jobsity node challenge',
+    description: 'API created to a todo challenge',
     version: '1.0.0'
   },
   license: {
@@ -18,9 +18,7 @@ export default {
     url: '/api'
   }],
   tags: [{
-    name: 'Account'
-  }, {
-    name: 'Event'
+    name: 'Todo'
   }],
   paths,
   schemas,

@@ -1,11 +1,13 @@
 import {
   todoParamsSchema,
   todoSchema,
-  todosSchema
+  todosSchema,
+  errorSchema
 } from './schemas/'
 
 export default {
   todoParams: todoParamsSchema,
   todo: todoSchema,
-  todos: todosSchema
+  todos: todosSchema,
+  error: errorSchema
 }
